@@ -42,7 +42,7 @@ def generate_image_url(refined_story):
   cover_response = client.images.generate(
     model="dall-e-3",
     prompt=f"{refined_story}",
-    size="256x256",
+    size="1024x1024",
     quality="hd",
     n=1,
   )
