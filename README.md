@@ -11,6 +11,8 @@ Welcome to AI-Story-Generator! This project leverages OpenAI's powerful models t
 
 ## Features
 
-- **Keyword-based Story Generation**: Enter keywords and generate a 100-word short story.
-- **Custom Cover Image**: Generate a detailed cover image based on the story.
-- **Story Rating**: Rate the generated stories.
+🖋 **Keyword-based Story Generation**: Enter keywords and get a 100-word short story in seconds.
+
+🎨 **Custom Cover Image**: Automatically generate a detailed, story-specific cover image.
+
+⭐ **Story Rating System**: Rate and keep track of your favorite generated stories.
